@@ -10,4 +10,4 @@ Ethical approval (Involvement of Human Subjects) were obtained from the Biosafet
 Credit author statement
 Sonia Corraya: Conceptualization, Methodology, Data curation, Visualization, Writing – original draft; Professor Shamim Al Mamun: Supervision; Professor M. Shamim Kaiser: Supervision. 
 
-This dataset belongs to supervisor, Institute of Information Technology, Jahangirnagar University, savar, Dhaka-1342, Bangladesh.
+This dataset belongs to Authors, Institute of Information Technology, Jahangirnagar University, savar, Dhaka-1342, Bangladesh.
